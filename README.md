@@ -23,8 +23,8 @@ Antes de começar, você precisa ter:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/edugobatti/CNN-categorizar-IMG
+   cd CNN-categorizar-IMG
    ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
